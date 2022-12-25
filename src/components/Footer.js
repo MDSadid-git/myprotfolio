@@ -22,7 +22,7 @@ const Footer = () => {
             <h2 className="text-3xl font-bold">MD Sadid</h2>
           </div>
           <p className="text-paragraph opacity-80 text-[15px]">
-            &copy; 2022 sadri. All rights reserved.
+            &copy; 2022 sadid. All rights reserved.
           </p>
         </div>
       </div>

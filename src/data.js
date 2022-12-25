@@ -4,6 +4,7 @@ import {
   FiInstagram,
   FiGithub,
   FiDribbble,
+  FiLinkedin,
   FiLayout,
   FiSettings,
   FiPenTool,
@@ -73,20 +74,12 @@ export const navigation = [
 // social
 export const social = [
   {
-    icon: <FiYoutube />,
-    href: "",
-  },
-  {
-    icon: <FiInstagram />,
-    href: "",
+    icon: <FiLinkedin />,
+    href: "https://www.linkedin.com/in/md-sadid/",
   },
   {
     icon: <FiGithub />,
-    href: "",
-  },
-  {
-    icon: <FiDribbble />,
-    href: "",
+    href: "https://github.com/Sadid-git",
   },
 ];
 
