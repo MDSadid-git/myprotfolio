@@ -1,9 +1,6 @@
 //  icons
 import {
-  FiYoutube,
-  FiInstagram,
   FiGithub,
-  FiDribbble,
   FiLinkedin,
   FiLayout,
   FiSettings,
