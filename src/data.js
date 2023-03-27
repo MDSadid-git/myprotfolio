@@ -22,8 +22,8 @@ import Project1 from "./assets/img/projects/resalePhone.png";
 import Project2 from "./assets/img/projects/sports.png";
 import Project3 from "./assets/img/projects/MERN.png";
 import Project4 from "./assets/img/projects/MERNQuize.png";
-import Project5 from "./assets/img/projects/Liverpool.png";
-import Project6 from "./assets/img/projects/BBC.png";
+import Project5 from "./assets/img/projects/Edu1.jpg";
+import Project6 from "./assets/img/projects/health11.jpg";
 
 // skills images
 import SkillImg1 from "./assets/img/skills/html5.png";
@@ -107,46 +107,46 @@ export const brands = [
 // projects
 export const projectsData = [
   {
+    id: "5",
+    image: Project5,
+    name: "EduManage",
+    liveLink: "https://edumanage-83f56.web.app/",
+    category: "web development",
+  },
+  {
+    id: "6",
+    image: Project6,
+    name: "Health Serves",
+    liveLink: "https://clever-dusk-b35c1e.netlify.app/",
+    category: "web development",
+  },
+  {
     id: "1",
     image: Project1,
-    name: "project name 1",
+    name: "Resale Phone",
     liveLink: "https://resale-clients-4749b.web.app/",
     category: "UI/UX design",
   },
   {
     id: "2",
     image: Project2,
-    name: "project name 2",
+    name: "PhotoGrapher",
     liveLink: "https://service-review-client-da7a6.web.app/",
     category: "web development",
   },
   {
     id: "3",
     image: Project3,
-    name: "project name 3",
+    name: "MERN Learning",
     liveLink: "https://learning-client-side.web.app/",
     category: "UI/UX design",
   },
   {
     id: "4",
     image: Project4,
-    name: "project name 4",
+    name: "MERN Quize",
     liveLink: "https://velvety-bienenstitch-0bfbab.netlify.app/",
     category: "branding",
-  },
-  {
-    id: "5",
-    image: Project5,
-    name: "project name 5",
-    liveLink: "https://voluble-kelpie-3212fd.netlify.app/",
-    category: "web development",
-  },
-  {
-    id: "6",
-    image: Project6,
-    name: "project name 6",
-    liveLink: "https://meek-cupcake-7dce65.netlify.app/index.html#",
-    category: "web development",
   },
 ];
 
