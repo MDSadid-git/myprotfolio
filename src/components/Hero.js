@@ -16,7 +16,7 @@ const Hero = () => {
               Hey, I'm Sadid! 👋
             </p>
             <h1 className="text-4xl leading-[44px] md:text-5xl md:leading-tight lg:text-7xl lg:leading-[1.2] font-bold md:tracking-[-2px]">
-              I Build Front-End <br /> Development.
+              MERN Stack Web <br /> Developer.
             </h1>
             <p className="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-base text-center lg:text-left">
               To Purse a challenging career in a dynamic pharmaceutical company
