@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "@heroicons/react": "^1.0.6",
+    "@iconify/react": "^4.1.1",
     "autoprefixer": "^10.4.2",
     "framer-motion": "^6.2.8",
     "postcss": "^8.4.8",

@@ -16,12 +16,14 @@ const Hero = () => {
               Hey, I'm Sadid! 👋
             </p>
             <h1 className="text-4xl leading-[44px] md:text-5xl md:leading-tight lg:text-7xl lg:leading-[1.2] font-bold md:tracking-[-2px]">
-              MERN Stack Web <br /> Developer.
+              Web <br /> Developer.
             </h1>
             <p className="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-base text-center lg:text-left">
-              To Purse a challenging career in a dynamic pharmaceutical company
-              where the environment will support me to utilize my knowledge and
-              expertise for professional career development.
+              Highly skilled and motivated MERN Stack Developer seeking a
+              challenging role at a reputable company. Committed to utilizing my
+              expertise in Web Design, Web Development, and MERN stack
+              technologies to deliver innovative solutions and contribute to the
+              success of the organization.
             </p>
             <button className="btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all">
               Work with me

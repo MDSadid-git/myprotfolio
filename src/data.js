@@ -18,9 +18,9 @@ import BehanceBrandIcon from "./assets/img/brands/behance.png";
 import DribbbleBrandIcon from "./assets/img/brands/dribbble.png";
 
 // projects images
-import Project1 from "./assets/img/projects/resalePhone.png";
-import Project2 from "./assets/img/projects/sports.png";
-import Project3 from "./assets/img/projects/MERN.png";
+import Project1 from "./assets/img/projects/furniture.jpg";
+import Project2 from "./assets/img/projects/edulearn.jpg";
+import Project3 from "./assets/img/projects/weeconsbulder.jpg";
 import Project4 from "./assets/img/projects/MERNQuize.png";
 import Project5 from "./assets/img/projects/Edu1.jpg";
 import Project6 from "./assets/img/projects/health11.jpg";
@@ -76,7 +76,7 @@ export const social = [
   },
   {
     icon: <FiGithub />,
-    href: "https://github.com/Sadid-git",
+    href: "https://github.com/MDSadid-git",
   },
 ];
 
@@ -107,10 +107,35 @@ export const brands = [
 // projects
 export const projectsData = [
   {
+    id: "1",
+    image: Project1,
+    name: "W Furniture",
+    liveLink: "https://w-furniture.netlify.app/",
+    git: "https://github.com/MDSadid-git/w-furniture",
+    category: "Front-End",
+  },
+  {
+    id: "2",
+    image: Project2,
+    name: "EDU Learn",
+    liveLink: "https://edu-learn-demo.netlify.app/",
+    git: "https://github.com/MDSadid-git/Edu-Learn",
+    category: "web development",
+  },
+  {
+    id: "3",
+    image: Project3,
+    name: "Wecons Bulder",
+    liveLink: "https://weecons-bulder.netlify.app/",
+    git: "https://github.com/MDSadid-git/Weecons-bulder",
+    category: "Front-End",
+  },
+  {
     id: "5",
     image: Project5,
     name: "EduManage",
     liveLink: "https://edumanage-83f56.web.app/",
+    git: "https://github.com/EduManage/edumanage-client",
     category: "web development",
   },
   {
@@ -118,34 +143,16 @@ export const projectsData = [
     image: Project6,
     name: "Health Serves",
     liveLink: "https://clever-dusk-b35c1e.netlify.app/",
+    git: "https://github.com/MDSadid-git/health-serves-client",
     category: "web development",
   },
-  {
-    id: "1",
-    image: Project1,
-    name: "Resale Phone",
-    liveLink: "https://resale-clients-4749b.web.app/",
-    category: "UI/UX design",
-  },
-  {
-    id: "2",
-    image: Project2,
-    name: "PhotoGrapher",
-    liveLink: "https://service-review-client-da7a6.web.app/",
-    category: "web development",
-  },
-  {
-    id: "3",
-    image: Project3,
-    name: "MERN Learning",
-    liveLink: "https://learning-client-side.web.app/",
-    category: "UI/UX design",
-  },
+
   {
     id: "4",
     image: Project4,
     name: "MERN Quize",
     liveLink: "https://velvety-bienenstitch-0bfbab.netlify.app/",
+    git: "https://github.com/MDSadid-git/MERN-Quiz-Assigment9",
     category: "branding",
   },
 ];
@@ -156,7 +163,7 @@ export const projectsNav = [
     name: "all",
   },
   {
-    name: "UI/UX Design",
+    name: "Front-End",
   },
   {
     name: "web development",
