@@ -32,7 +32,7 @@ const Nav = () => {
         })}
         <li>
           <a
-            href="https://drive.google.com/file/d/15Z5HQy_XbtqYJiJTsCdPtQtoBOBFWGbg/view?usp=sharing"
+            href="https://drive.google.com/file/d/1GYKAnjhW7y5erEOU7YGJwTFdCL4rggo2/view?usp=drive_link"
             target={"_blank"}
           >
             Resume
